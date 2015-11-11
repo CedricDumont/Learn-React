@@ -1,0 +1,35 @@
+{
+  "name": "learn-react",
+  "version": "0.0.1",
+  "description": "development init project for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CedricDumont/Learn-React.git"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "author": "Cedric Dumont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CedricDumont/Learn-React/issues"
+  },
+  "homepage": "https://github.com/CedricDumont/Learn-React#readme",
+  "dependencies": {
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.1.4",
+    "babel-loader": "^6.1.0",
+    "babel-preset-es2015": "^6.1.4",
+    "babel-preset-react": "^6.1.4",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.12.4"
+  }
+}
